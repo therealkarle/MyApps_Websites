@@ -1,14 +1,30 @@
 # Meine öffentlichen Apps und Websites
 
 Diese Seite verweist auf meine öffentlichen Apps/Websites und die dazugehörigen öffentlichen Basis-Repositories.
-Nicht öffentlicher (privater) Code ist hier nicht verlinkt.
+
+| App | Live-URL | Basiert auf |
+|---|---|---|
+| **Fuellens** | https://fuellens.vercel.app/?view=dashboard | https://github.com/therealkarle/ChronoAnalyser |
+| **FuelCalc (Glucose/Fructose Ratio Calculator)** | https://fuelcalc-glucosefructos-ratio-calulator.lovable.app/ | https://github.com/therealkarle/fuel-calc-glucose-fructose-ratio-calulator |
 
 ## 1) Fuellens
 
-- App/Website: https://fuellens.vercel.app/?view=dashboard
-- Basiert auf: https://github.com/therealkarle/ChronoAnalyser
+**Zweck:** Dashboard-basierte Analyse- und Tracking-Ansicht.
+
+**Wichtigste Funktionen:**
+- Dashboard-orientierter Workflow
+- Klar strukturierte Datenansichten
+- Einfacher Zugriff direkt im Browser
 
 ## 2) FuelCalc (Glucose/Fructose Ratio Calculator)
 
-- App/Website: https://fuelcalc-glucosefructos-ratio-calulator.lovable.app/
-- Basiert auf: https://github.com/therealkarle/fuel-calc-glucose-fructose-ratio-calulator
+**Zweck:** Unterstützung bei der Planung von Kohlenhydrat-Verhältnissen fürs Fueling.
+
+**Wichtigste Funktionen:**
+- Berechnung von Glukose/Fruktose-Verhältnissen
+- Schneller Vergleich verschiedener Eingaben
+- Leichte Web-Oberfläche
+
+---
+
+Nicht öffentlicher (privater) Code ist hier nicht verlinkt.
