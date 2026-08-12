@@ -6,14 +6,14 @@ Welcome! This repository is the public landing page for my apps and websites.
 
 - **English (default):** this page
 - **Deutsch:** [apps-websites.de.md](./apps-websites.de.md)
-- **English page copy:** [apps-websites.en.md](./apps-websites.en.md)
+
 
 ## Public Apps Overview
 
-| App | Live URL | Based on | What it does |
+| App | Live URL | What it does |
 |---|---|---|---|
-| **Fuellens** | https://fuellens.vercel.app/?view=dashboard | https://github.com/therealkarle/ChronoAnalyser | Dashboard for analyzing and tracking relevant training/time data in a clear interface. |
-| **FuelCalc (Glucose/Fructose Ratio Calculator)** | https://fuelcalc-glucosefructos-ratio-calulator.lovable.app/ | https://github.com/therealkarle/fuel-calc-glucose-fructose-ratio-calulator | Calculator for planning glucose/fructose intake ratios for fueling strategies. |
+| **Fuellens** | https://fuellens.vercel.app/?view=dashboard | Dashboard for analyzing and tracking relevant training/time data in a clear interface. |
+| **FuelCalc (Glucose/Fructose Ratio Calculator)** | https://github.com/therealkarle/fuel-calc-glucose-fructose-ratio-calulator | Calculator for planning glucose/fructose intake ratios for fueling strategies. |
 
 ## App Details
 
@@ -37,6 +37,4 @@ Helps estimate and compare carbohydrate ratio plans for endurance fueling.
 - Fast scenario comparison for fueling planning
 - Simple web UI for quick adjustments
 
----
 
-Non-public (private) code is not linked here.
