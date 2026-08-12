@@ -4,8 +4,8 @@ Diese Seite verweist auf meine öffentlichen Apps/Websites und die dazugehörige
 
 | App | Live-URL | Basiert auf |
 |---|---|---|
-| **Fuellens** | https://fuellens.vercel.app/?view=dashboard | https://github.com/therealkarle/ChronoAnalyser |
-| **FuelCalc (Glucose/Fructose Ratio Calculator)** | https://fuelcalc-glucosefructos-ratio-calulator.lovable.app/ | https://github.com/therealkarle/fuel-calc-glucose-fructose-ratio-calulator |
+| **Fuellens** | https://fuellens.vercel.app/?view=dashboard |
+| **FuelCalc (Glucose/Fructose Ratio Calculator)** | https://fuelcalc-glucosefructos-ratio-calulator.lovable.app/ |
 
 ## 1) Fuellens
 
@@ -25,6 +25,3 @@ Diese Seite verweist auf meine öffentlichen Apps/Websites und die dazugehörige
 - Schneller Vergleich verschiedener Eingaben
 - Leichte Web-Oberfläche
 
----
-
-Nicht öffentlicher (privater) Code ist hier nicht verlinkt.
