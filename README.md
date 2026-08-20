@@ -13,7 +13,7 @@ Welcome! This repository is the public landing page for my apps and websites.
 | App | Live URL | What it does |
 |---|---|---|---|
 | **Fuellens** | https://fuellens.vercel.app/?view=dashboard | Dashboard for analyzing and tracking relevant training/time data in a clear interface. |
-| **FuelCalc (Glucose/Fructose Ratio Calculator)** | https://github.com/therealkarle/fuel-calc-glucose-fructose-ratio-calulator | Calculator for planning glucose/fructose intake ratios for fueling strategies. |
+| **FuelCalc (Glucose/Fructose Ratio Calculator)** | https://fuelcalc-glucosefructos-ratio-calulator.lovable.app/ | Calculator for planning glucose/fructose intake ratios for fueling strategies. |
 
 ## App Details
 
