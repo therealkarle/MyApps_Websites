@@ -13,8 +13,8 @@ Willkommen! Dieses Repository zeigt meine datenschutzfreundlichen Ernährungs- u
 
 | App | Zweck | Live-URL |
 |-----|-------|----------|
-| **[Fuel Lens](#fuel-lens)** | Ernährungsanalyse-Arbeitsbereich für das Verständnis von Ernährungsmustern, Trends und Biometrie | https://fuellens.vercel.app/?view=dashboard |
-| **[Fuel Calc](#fuel-calc)** | Glukose:Fruktose-Verhältnis-Rechner für die Optimierung der Ausdauer-Befüllung | https://fuelcalc-glucosefructos-ratio-calulator.lovable.app/ |
+| **[Fuel Lens](#fuel-lens)** | Ernährungsanalyse-Tool für das Verständnis von Ernährungsmustern, Trends und Biometrie | https://fuellens.vercel.app/?view=dashboard |
+| **[Fuel Calc](#fuel-calc)** | Glukose:Fruktose-Verhältnis-Rechner für die Optimierung der Ernährung während Ausdauer Aktivitäten | https://fuelcalc-glucosefructos-ratio-calulator.lovable.app/ |
 
 ---
 
@@ -23,9 +23,9 @@ Willkommen! Dieses Repository zeigt meine datenschutzfreundlichen Ernährungs- u
 | Repository | Beschreibung | GitHub-URL |
 |------------|--------------|------------|
 | **[TourTimeCalulator](#tourtlocalulator)** | Tourzeit-Vorhersagen mit Strava-API-Integration | https://github.com/therealkarle/TourTimeCalulator |
-| **[SleepTempFinder](#sleeptempfinder)** | Schlafumgebung-Korrelationsanalyse mit R | https://github.com/therealkarle/SleepTempFinder |
-| **[RuterfahrenIn_BatchDateien](#ruterfahrenin_batchdateien)** | Windows-Batch-Skripte für geplanten PC-Herunterfahren | https://github.com/therealkarle/RuterfahrenIn_BatchDateien |
-| **[ActivityWatch_StartUpScripts_FlorianZahl_launcher](#activitywatch_startupscripts_florianzahl_launcher)** | ActivityWatch-Startorchestrator | https://github.com/therealkarle/ActivityWatch_StartUpScripts_FlorianZahl_launcher |
+| **[SleepTempFinder](#sleeptempfinder)** | Schlaftemperatur (Und andere Raumdaten)-Korrelationsanalyse mit R | https://github.com/therealkarle/SleepTempFinder |
+| **[RuterfahrenIn_BatchDateien](#ruterfahrenin_batchdateien)** | Windows-Batch-Skripte für geplantes PC-Herunterfahren | https://github.com/therealkarle/RuterfahrenIn_BatchDateien |
+| **[ActivityWatch_StartUpScripts_FlorianZahl_launcher](#activitywatch_startupscripts_florianzahl_launcher)** | Startscript für meine ActivityWach Scrpits | https://github.com/therealkarle/ActivityWatch_StartUpScripts_FlorianZahl_launcher |
 | **[ActivityWatch_Android-Import](#activitywatch_android-import)** | Google Drive zu ActivityWatch-Sync für Android | https://github.com/therealkarle/ActivityWatch_Android-Import |
 | **[ActivityWatch_iPad_Simple_Screentime_import](#activitywatch_ipad_simple_screentime_import)** | iPad Screen Time zu ActivityWatch-Import | https://github.com/therealkarle/ActivityWatch_iPad_Simple_Screentime_import |
 | **[ActivityWatch_email_summary](#activitywatch_email_summary)** | E-Mail-Berichte aus ActivityWatch-Daten | https://github.com/therealkarle/ActivityWatch_email_summary |
