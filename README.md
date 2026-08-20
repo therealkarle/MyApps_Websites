@@ -268,6 +268,7 @@ Both apps share core principles:
 
 ## GitHub Repository Details
 
+<a id="tourtlocalulator"></a>
 ### [TourTimeCalulator](https://github.com/therealkarle/TourTimeCalulator)
 
 Python-based tour time calculator with Strava API integration. Predicts tour completion times and synchronizes activities with your Strava account.
