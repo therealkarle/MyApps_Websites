@@ -29,7 +29,6 @@ Welcome! This repository showcases my privacy-focused nutrition and performance 
 | **[ActivityWatch_Android-Import](#activitywatch_android-import)** | Google Drive to ActivityWatch sync for Android | https://github.com/therealkarle/ActivityWatch_Android-Import |
 | **[ActivityWatch_iPad_Simple_Screentime_import](#activitywatch_ipad_simple_screentime_import)** | iPad Screen Time to ActivityWatch import | https://github.com/therealkarle/ActivityWatch_iPad_Simple_Screentime_import |
 | **[ActivityWatch_email_summary](#activitywatch_email_summary)** | Email reports from ActivityWatch data | https://github.com/therealkarle/ActivityWatch_email_summary |
-| **[ActivityWatch_iPad_sync_import](#activitywatch_ipad_sync_import)** | iPad to PC ActivityWatch data sync | https://github.com/therealkarle/ActivityWatch_iPad_sync_import |
 | **[YT-DLP-GUI](#yt-dlp-gui)** | GUI front-end for yt-dlp video downloader | https://github.com/therealkarle/YT-DLP-GUI |
 | **[PolarstepsPDFCreator](#polarstepspdfcreator)** | PDF travel documentation from Polarsteps trips | https://github.com/therealkarle/PolarstepsPDFCreator |
 | **[InternalWindMachine](#internalwindmachine)** | SimRacing telemetry-based PC fan controller | https://github.com/therealkarle/InternalWindMachine |
@@ -358,19 +357,6 @@ Generates and emails ActivityWatch summary reports. Provides automated productiv
 - Productivity and sleep summaries
 
 **Technology:** Python, SMTP
-
----
-
-### [ActivityWatch_iPad_sync_import](https://github.com/therealkarle/ActivityWatch_iPad_sync_import)
-
-Syncs iPad ActivityWatch data to local instance with status tracking. Maintains data consistency across devices.
-
-**Key Features:**
-- Incremental sync
-- Backup intervals
-- Sync status tracking
-
-**Technology:** Python
 
 ---
 

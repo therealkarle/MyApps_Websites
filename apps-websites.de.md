@@ -29,7 +29,6 @@ Willkommen! Dieses Repository zeigt meine datenschutzfreundlichen Ernährungs- u
 | **[ActivityWatch_Android-Import](#activitywatch_android-import)** | Google Drive zu ActivityWatch-Sync für Android | https://github.com/therealkarle/ActivityWatch_Android-Import |
 | **[ActivityWatch_iPad_Simple_Screentime_import](#activitywatch_ipad_simple_screentime_import)** | iPad Screen Time zu ActivityWatch-Import | https://github.com/therealkarle/ActivityWatch_iPad_Simple_Screentime_import |
 | **[ActivityWatch_email_summary](#activitywatch_email_summary)** | E-Mail-Berichte aus ActivityWatch-Daten | https://github.com/therealkarle/ActivityWatch_email_summary |
-| **[ActivityWatch_iPad_sync_import](#activitywatch_ipad_sync_import)** | iPad zu PC ActivityWatch-Datensync | https://github.com/therealkarle/ActivityWatch_iPad_sync_import |
 | **[YT-DLP-GUI](#yt-dlp-gui)** | GUI-Front-End für yt-dlp Video-Downloader | https://github.com/therealkarle/YT-DLP-GUI |
 | **[PolarstepsPDFCreator](#polarstepspdfcreator)** | PDF-Reisedokumentation aus Polarsteps-Trips | https://github.com/therealkarle/PolarstepsPDFCreator |
 | **[InternalWindMachine](#internalwindmachine)** | SimRacing-Telemetrie-basierter PC-Lüftercontroller | https://github.com/therealkarle/InternalWindMachine |
@@ -355,19 +354,6 @@ Generiert regelmäßige E-Mail-Berichte basierend auf ActivityWatch-Daten, um Pr
 - Konfigurierbare Berichtszeiträume
 - Anpassbare Metriken und Visualisierungen
 - E-Mail-Benachrichtigungen
-
-**Technologie:** Python 3.11+
-
----
-
-### [ActivityWatch_iPad_sync_import](https://github.com/therealkarle/ActivityWatch_iPad_sync_import)
-
-Synchronisiert iPad-Daten mit ActivityWatch auf dem PC für konsistente Aktivitätsverfolgung über Geräte hinweg.
-
-**Hauptfunktionen:**
-- Bidirektionale Synchronisation
-- Konfliktauflösung
-- Automatische Erkennung neuer Daten
 
 **Technologie:** Python 3.11+
 
