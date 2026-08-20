@@ -13,12 +13,12 @@ Welcome! This repository showcases my privacy-focused nutrition and performance 
 
 | App | Live URL | Purpose |
 |-----|----------|---------|
-| **[Fuel Lens](#fuel-lens)** | https://fuellens.vercel.app/?view=dashboard | Privacy-first nutrition analytics workspace for understanding dietary patterns, trends, and biometrics |
+| **[Fuel Lens](#fuel-lens)** | https://fuellens.vercel.app/?view=dashboard | Nutrition analytics workspace for understanding dietary patterns, trends, and biometrics |
 | **[Fuel Calc](#fuel-calc)** | https://fuelcalc-glucosefructos-ratio-calulator.lovable.app/ | Glucose:Fructose ratio calculator for endurance sports fueling optimization |
 
 ---
 
-## Fuel Lens
+## [Fuel Lens](https://fuellens.vercel.app/?view=dashboard)
 
 **Privacy-focused nutrition and health-analysis website**
 
@@ -163,7 +163,7 @@ Client-side processing model:
 *Treat backup files, medical reports, and AI exports as sensitive personal-health files.*
 
 #### 📚 Built-in Documentation
-Wiki explains:
+[Wiki](https://fuellens.vercel.app/wiki) explains:
 - Uploading data
 - Dashboard and diary usage
 - Goals and trends
@@ -189,7 +189,7 @@ Wiki explains:
 
 ---
 
-## Fuel Calc
+## [Fuel Calc](https://fuelcalc-glucosefructos-ratio-calulator.lovable.app/)
 
 **Glucose:Fructose Ratio Calculator for Endurance Fueling**
 
@@ -252,10 +252,8 @@ The glucose-to-fructose ratio is crucial for intestinal absorption:
 Both apps share core principles:
 
 ✅ **Client-side processing** — your data stays in your browser  
-✅ **No backend required** for normal analysis  
 ✅ **Privacy-first** — calculations run locally  
-✅ **Free forever** — no subscriptions or data monetization  
-✅ **Open access** — browser-based, no installation needed
+✅ **Open access** — browser-based, no installation or registration needed
 
 ---
 
@@ -269,19 +267,6 @@ The ratio collapses to the available sugar only. The action plan recommends addi
 
 **Does Fuel Lens send my data anywhere?**  
 No. All processing happens in your browser. Data only leaves if you explicitly export a backup, report, or AI context file.
-
-**Can I delete my data?**  
-Yes. Fuel Lens includes clear stored data and settings options.
-
-**Is this medical advice?**  
-No. Both tools are for personal analysis and planning. Consult healthcare professionals for medical decisions.
-
----
-
-## Links
-
-- **Fuel Lens:** https://fuellens.vercel.app/?view=dashboard
-- **Fuel Calc:** https://fuelcalc-glucosefructos-ratio-calulator.lovable.app/
 
 ---
 
