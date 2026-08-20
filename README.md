@@ -163,16 +163,7 @@ Client-side processing model:
 *Treat backup files, medical reports, and AI exports as sensitive personal-health files.*
 
 #### 📚 Built-in Documentation
-[Wiki](https://fuellens.vercel.app/wiki) explains:
-- Uploading data
-- Dashboard and diary usage
-- Goals and trends
-- Adaptive TDEE
-- Food comparison
-- Medical reports
-- AI context export
-- Data management and privacy
-- Nutrient scoring models
+Comprehensive [Wiki](https://fuellens.vercel.app/wiki) with guides for every feature, concept, and workflow in Fuel Lens — from first import to advanced analytics.
 
 ### Intended Workflow
 
