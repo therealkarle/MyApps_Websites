@@ -13,8 +13,8 @@ Welcome! This repository showcases my privacy-focused nutrition and performance 
 
 | App | Live URL | Purpose |
 |-----|----------|---------|
-| **Fuel Lens** | https://fuellens.vercel.app/?view=dashboard | Privacy-first nutrition analytics workspace for understanding dietary patterns, trends, and biometrics |
-| **Fuel Calc** | https://fuelcalc-glucosefructos-ratio-calulator.lovable.app/ | Glucose:Fructose ratio calculator for endurance sports fueling optimization |
+| **[Fuel Lens](#fuel-lens)** | https://fuellens.vercel.app/?view=dashboard | Privacy-first nutrition analytics workspace for understanding dietary patterns, trends, and biometrics |
+| **[Fuel Calc](#fuel-calc)** | https://fuelcalc-glucosefructos-ratio-calulator.lovable.app/ | Glucose:Fructose ratio calculator for endurance sports fueling optimization |
 
 ---
 
