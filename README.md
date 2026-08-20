@@ -18,6 +18,24 @@ Welcome! This repository showcases my privacy-focused nutrition and performance 
 
 ---
 
+## GitHub Repositories
+
+| Repository | Description |
+|------------|-------------|
+| [TourTimeCalulator](https://github.com/therealkarle/TourTimeCalulator) | Tour time predictions with Strava API integration |
+| [SleepTempFinder](https://github.com/therealkarle/SleepTempFinder) | Sleep environment correlation analysis using R |
+| [RuterfahrenIn_BatchDateien](https://github.com/therealkarle/RuterfahrenIn_BatchDateien) | Windows batch scripts for scheduled PC shutdown |
+| [ActivityWatch_StartUpScripts_FlorianZahn_launcher](https://github.com/therealkarle/ActivityWatch_StartUpScripts_FlorianZahl_launcher) | ActivityWatch startup orchestrator |
+| [ActivityWatch_Android-Import](https://github.com/therealkarle/ActivityWatch_Android-Import) | Google Drive to ActivityWatch sync for Android |
+| [ActivityWatch_iPad_Simple_Screentime_import](https://github.com/therealkarle/ActivityWatch_iPad_Simple_Screentime_import) | iPad Screen Time to ActivityWatch import |
+| [ActivityWatch_email_summary](https://github.com/therealkarle/ActivityWatch_email_summary) | Email reports from ActivityWatch data |
+| [ActivityWatch_iPad_sync_import](https://github.com/therealkarle/ActivityWatch_iPad_sync_import) | iPad to PC ActivityWatch data sync |
+| [YT-DLP-GUI](https://github.com/therealkarle/YT-DLP-GUI) | GUI front-end for yt-dlp video downloader |
+| [PolarstepsPDFCreator](https://github.com/therealkarle/PolarstepsPDFCreator) | PDF travel documentation from Polarsteps trips |
+| [InternalWindMachine](https://github.com/therealkarle/InternalWindMachine) | SimRacing telemetry-based PC fan controller |
+
+---
+
 ## [Fuel Lens](https://fuellens.vercel.app/?view=dashboard)
 
 **Privacy-focused nutrition and health-analysis website**
@@ -245,6 +263,156 @@ Both apps share core principles:
 ✅ **Client-side processing** — your data stays in your browser  
 ✅ **Privacy-first** — calculations run locally  
 ✅ **Open access** — browser-based, no installation or registration needed
+
+---
+
+## GitHub Repository Details
+
+### [TourTimeCalulator](https://github.com/therealkarle/TourTimeCalulator)
+
+Python-based tour time calculator with Strava API integration. Predicts tour completion times and synchronizes activities with your Strava account.
+
+**Key Features:**
+- Strava activity synchronization
+- Tour time predictions and calculations
+- Cross-platform support (Windows, macOS, Linux)
+
+**Technology:** Python 3.11+
+
+---
+
+### [SleepTempFinder](https://github.com/therealkarle/SleepTempFinder)
+
+Analyzes correlations between sleeping room temperature and humidity with sleep quality metrics. Helps identify optimal sleep conditions.
+
+**Key Features:**
+- Sleep score correlation analysis
+- Resting heart rate (RHR) tracking
+- Heart rate variability (HRV) analysis
+
+**Technology:** R language
+
+---
+
+### [RuterfahrenIn_BatchDateien](https://github.com/therealkarle/RuterfahrenIn_BatchDateien)
+
+Windows batch scripts for scheduled PC shutdown or hibernate. Automates power management after a specified duration.
+
+**Key Features:**
+- Scheduled shutdown/hibernate timers
+- Windows batch automation
+- Simple configuration
+
+**Technology:** Batchfile (Windows)
+
+---
+
+### [ActivityWatch_StartUpScripts_FlorianZahl_launcher](https://github.com/therealkarle/ActivityWatch_StartUpScripts_FlorianZahl_launcher)
+
+Launches ActivityWatch import scripts at Windows login in configurable stages. Manages startup sequence for ActivityWatch data collection.
+
+**Key Features:**
+- Configurable startup sequence
+- Multi-stage launching
+- Windows login integration
+
+**Technology:** PowerShell
+
+---
+
+### [ActivityWatch_Android-Import](https://github.com/therealkarle/ActivityWatch_Android-Import)
+
+Imports ActivityWatch exports from Google Drive and syncs to local instance. Bridges Android data with ActivityWatch ecosystem.
+
+**Key Features:**
+- Google Drive sync integration
+- Incremental import support
+- Window bucket mirroring to AFK buckets
+- Automatic Android-to-PC data migration
+
+**Technology:** Python, Google Drive API, ActivityWatch API
+
+---
+
+### [ActivityWatch_iPad_Simple_Screentime_import](https://github.com/therealkarle/ActivityWatch_iPad_Simple_Screentime_import)
+
+Imports iPad Screen Time data from iCloud Drive into ActivityWatch. Tracks device usage patterns over time.
+
+**Key Features:**
+- iCloud Screen Time log parsing
+- ActivityWatch event upload
+- Device usage tracking
+
+**Technology:** Python
+
+---
+
+### [ActivityWatch_email_summary](https://github.com/therealkarle/ActivityWatch_email_summary)
+
+Generates and emails ActivityWatch summary reports. Provides automated productivity and sleep insights via email.
+
+**Key Features:**
+- Automated report generation
+- Email delivery
+- Productivity and sleep summaries
+
+**Technology:** Python, SMTP
+
+---
+
+### [ActivityWatch_iPad_sync_import](https://github.com/therealkarle/ActivityWatch_iPad_sync_import)
+
+Syncs iPad ActivityWatch data to local instance with status tracking. Maintains data consistency across devices.
+
+**Key Features:**
+- Incremental sync
+- Backup intervals
+- Sync status tracking
+
+**Technology:** Python
+
+---
+
+### [YT-DLP-GUI](https://github.com/therealkarle/YT-DLP-GUI)
+
+Graphical user interface for yt-dlp video downloader. Simplifies downloading videos and playlists from various platforms.
+
+**Key Features:**
+- User-friendly GUI interface
+- Video downloading with yt-dlp
+- Playlist support
+- Error handling
+
+**Technology:** Python, yt-dlp
+
+---
+
+### [PolarstepsPDFCreator](https://github.com/therealkarle/PolarstepsPDFCreator)
+
+Generates PDF documents from Polarsteps trips with statistics and maps. Creates professional travel documentation.
+
+**Key Features:**
+- Overview map with route and step markers
+- Individual step location maps (ESRI World Imagery)
+- Adaptive photo grids (1-6 photos per step)
+- Weather information per step
+- Full travel journal formatting
+- Tkinter GUI with sortable table
+
+**Technology:** Python, Tkinter, tkcalendar
+
+---
+
+### [InternalWindMachine](https://github.com/therealkarle/InternalWindMachine)
+
+PC fan controller using live telemetry data for SimRacing. Controls fans based on real-time racing metrics without extra hardware.
+
+**Key Features:**
+- Controls standard PC fans via motherboard headers
+- No Arduino or extra hardware required
+- Real-time telemetry integration
+
+**Technology:** SimRacing telemetry, PC hardware control
 
 ---
 
