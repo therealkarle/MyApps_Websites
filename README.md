@@ -20,19 +20,19 @@ Welcome! This repository showcases my privacy-focused nutrition and performance 
 
 ## GitHub Repositories
 
-| Repository | Description |
-|------------|-------------|
-| [TourTimeCalulator](https://github.com/therealkarle/TourTimeCalulator) | Tour time predictions with Strava API integration |
-| [SleepTempFinder](https://github.com/therealkarle/SleepTempFinder) | Sleep environment correlation analysis using R |
-| [RuterfahrenIn_BatchDateien](https://github.com/therealkarle/RuterfahrenIn_BatchDateien) | Windows batch scripts for scheduled PC shutdown |
-| [ActivityWatch_StartUpScripts_FlorianZahn_launcher](https://github.com/therealkarle/ActivityWatch_StartUpScripts_FlorianZahl_launcher) | ActivityWatch startup orchestrator |
-| [ActivityWatch_Android-Import](https://github.com/therealkarle/ActivityWatch_Android-Import) | Google Drive to ActivityWatch sync for Android |
-| [ActivityWatch_iPad_Simple_Screentime_import](https://github.com/therealkarle/ActivityWatch_iPad_Simple_Screentime_import) | iPad Screen Time to ActivityWatch import |
-| [ActivityWatch_email_summary](https://github.com/therealkarle/ActivityWatch_email_summary) | Email reports from ActivityWatch data |
-| [ActivityWatch_iPad_sync_import](https://github.com/therealkarle/ActivityWatch_iPad_sync_import) | iPad to PC ActivityWatch data sync |
-| [YT-DLP-GUI](https://github.com/therealkarle/YT-DLP-GUI) | GUI front-end for yt-dlp video downloader |
-| [PolarstepsPDFCreator](https://github.com/therealkarle/PolarstepsPDFCreator) | PDF travel documentation from Polarsteps trips |
-| [InternalWindMachine](https://github.com/therealkarle/InternalWindMachine) | SimRacing telemetry-based PC fan controller |
+| Repository | GitHub URL | Description |
+|------------|------------|-------------|
+| **[TourTimeCalulator](#tourtlocalulator)** | https://github.com/therealkarle/TourTimeCalulator | Tour time predictions with Strava API integration |
+| **[SleepTempFinder](#sleeptempfinder)** | https://github.com/therealkarle/SleepTempFinder | Sleep environment correlation analysis using R |
+| **[RuterfahrenIn_BatchDateien](#ruterfahrenin_batchdateien)** | https://github.com/therealkarle/RuterfahrenIn_BatchDateien | Windows batch scripts for scheduled PC shutdown |
+| **[ActivityWatch_StartUpScripts_FlorianZahl_launcher](#activitywatch_startupscripts_florianzahl_launcher)** | https://github.com/therealkarle/ActivityWatch_StartUpScripts_FlorianZahl_launcher | ActivityWatch startup orchestrator |
+| **[ActivityWatch_Android-Import](#activitywatch_android-import)** | https://github.com/therealkarle/ActivityWatch_Android-Import | Google Drive to ActivityWatch sync for Android |
+| **[ActivityWatch_iPad_Simple_Screentime_import](#activitywatch_ipad_simple_screentime_import)** | https://github.com/therealkarle/ActivityWatch_iPad_Simple_Screentime_import | iPad Screen Time to ActivityWatch import |
+| **[ActivityWatch_email_summary](#activitywatch_email_summary)** | https://github.com/therealkarle/ActivityWatch_email_summary | Email reports from ActivityWatch data |
+| **[ActivityWatch_iPad_sync_import](#activitywatch_ipad_sync_import)** | https://github.com/therealkarle/ActivityWatch_iPad_sync_import | iPad to PC ActivityWatch data sync |
+| **[YT-DLP-GUI](#yt-dlp-gui)** | https://github.com/therealkarle/YT-DLP-GUI | GUI front-end for yt-dlp video downloader |
+| **[PolarstepsPDFCreator](#polarstepspdfcreator)** | https://github.com/therealkarle/PolarstepsPDFCreator | PDF travel documentation from Polarsteps trips |
+| **[InternalWindMachine](#internalwindmachine)** | https://github.com/therealkarle/InternalWindMachine | SimRacing telemetry-based PC fan controller |
 
 ---
 
