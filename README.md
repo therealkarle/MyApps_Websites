@@ -23,6 +23,7 @@ Welcome! This repository showcases my privacy-focused nutrition and performance 
 | Repository | Description | GitHub URL |
 |------------|-------------|------------|
 | **[TourTimeCalulator](#tourtlocalulator)** | Tour time predictions with Strava API integration | https://github.com/therealkarle/TourTimeCalulator |
+| **[Strava2Garmin](#strava2garmin)** | Sync Strava activity names and descriptions to Garmin Connect | https://github.com/therealkarle/Strava2Garmin |
 | **[SleepTempFinder](#sleeptempfinder)** | Sleep environment correlation analysis using R | https://github.com/therealkarle/SleepTempFinder |
 | **[RuterfahrenIn_BatchDateien](#ruterfahrenin_batchdateien)** | Windows batch scripts for scheduled PC shutdown | https://github.com/therealkarle/RuterfahrenIn_BatchDateien |
 | **[ActivityWatch_StartUpScripts_FlorianZahl_launcher](#activitywatch_startupscripts_florianzahl_launcher)** | ActivityWatch startup orchestrator | https://github.com/therealkarle/ActivityWatch_StartUpScripts_FlorianZahl_launcher |

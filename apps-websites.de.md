@@ -23,6 +23,7 @@ Willkommen! Dieses Repository zeigt meine datenschutzfreundlichen Ernährungs- u
 | Repository | Beschreibung | GitHub-URL |
 |------------|--------------|------------|
 | **[TourTimeCalulator](#tourtlocalulator)** | Tourzeit-Vorhersagen mit Strava-API-Integration | https://github.com/therealkarle/TourTimeCalulator |
+| **[Strava2Garmin](#strava2garmin)** | Synchronisiert Strava-Aktivitätsnamen und -Beschreibungen mit Garmin Connect | https://github.com/therealkarle/Strava2Garmin |
 | **[SleepTempFinder](#sleeptempfinder)** | Schlaftemperatur (Und andere Raumdaten)-Korrelationsanalyse mit R | https://github.com/therealkarle/SleepTempFinder |
 | **[RuterfahrenIn_BatchDateien](#ruterfahrenin_batchdateien)** | Windows-Batch-Skripte für geplantes PC-Herunterfahren | https://github.com/therealkarle/RuterfahrenIn_BatchDateien |
 | **[ActivityWatch_StartUpScripts_FlorianZahl_launcher](#activitywatch_startupscripts_florianzahl_launcher)** | Startscript für meine ActivityWach Scrpits | https://github.com/therealkarle/ActivityWatch_StartUpScripts_FlorianZahl_launcher |
