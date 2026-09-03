@@ -295,6 +295,47 @@ Analyzes correlations between sleeping room temperature and humidity with sleep 
 
 ---
 
+<a id="strava2garmin"></a>
+### [Strava2Garmin](https://github.com/therealkarle/Strava2Garmin)
+
+Windows-friendly Python tool that syncs activity metadata from Strava to Garmin Connect. Keeps your activity names, descriptions, and optional event categories consistent across both services without creating duplicates.
+
+**What It Syncs:**
+- **Activity names** from Strava to Garmin Connect
+- **Activity descriptions**, including details fetched from individual Strava activities
+- **Optional event categories:** Strava races → Garmin `Wettkampf`; workouts/long runs → `Training`; commutes → `Verkehrsmittel`
+- **Existing Garmin names** can be appended to descriptions for reference
+
+**Key Features:**
+- Safe activity matching by start time (configurable tolerance) and sport type
+- `--dry-run` mode to preview changes before updating Garmin
+- Protection for existing Garmin text with `overwrite = false` option
+- Automatic retry of temporary HTTP 504 errors with Garmin's requested delay
+- Clear error messages for missing setup, expired credentials, and rate limits
+- Garmin description truncation at 2,000 UTF-16 character limit
+- Windows batch files for easy execution
+- Optional Windows Task Scheduler automation
+
+**Setup:**
+- Automatic setup via `setup.bat` (recommended) or manual Python scripts
+- Strava API application registration with OAuth callback
+- Garmin Connect authentication with MFA support
+- Local credential storage outside the project directory
+
+**Usage:**
+- `py sync.py` — Sync recent activities (configurable limit)
+- `py sync.py --dry-run` — Preview changes without modifying Garmin
+- `py sync.py --start-date 2026-08-01 --end-date 2026-08-28` — Sync a date range
+- `py sync.py --no-overwrite` — Fill empty fields only
+- `py sync.py --log-level DEBUG` — Enable detailed logging
+- Double-click `Strava2Garmin.bat` for interactive GUI-style sync
+
+**Technology:** Python 3.11+, Windows batch automation, OAuth 2.0
+
+**Data Safety:** Credentials stored securely in `%APPDATA%\Strava2Garmin\`; no activities created, uploaded, or deleted — metadata updates only.
+
+---
+
 ### [RuterfahrenIn_BatchDateien](https://github.com/therealkarle/RuterfahrenIn_BatchDateien)
 
 Windows batch scripts for scheduled PC shutdown or hibernate. Automates power management after a specified duration.

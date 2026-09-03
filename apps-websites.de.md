@@ -295,6 +295,46 @@ Analysiert Korrelationen zwischen Schlafzimmertemperatur und Luftfeuchtigkeit mi
 
 ---
 
+<a id="strava2garmin"></a>
+### [Strava2Garmin](https://github.com/therealkarle/Strava2Garmin)
+
+Python-Tool, das Aktivitätsmetadaten von Strava zutüch zu Garmin Connect synchronisiert. Hält dieA ktivitätsnamen, Beschreibungen und optionalen Kategorien in beiden Diensten konsistent, ohne Duplikate zu erstellen.
+
+**Was wird synchronisiert:**
+- **Aktivitätsnamen** von Strava zu Garmin Connect
+- **Aktivitätsbeschreibungen**, einschließlich Details aus individuellen Strava-Aktivitäten
+- **Optionale Ereigniskategorien:** Strava-Rennen → Garmin `Wettkampf`; Trainingseinheiten/lange Läufe → `Training`; Pendlerfahrten → `Verkehrsmittel`
+- **Vorhandene Garmin-Namen** können zu Beschreibungen hinzugefügt werden als Referenz
+
+**Hauptfunktionen:**
+- Sichere Aktivitätsabstimmung nach Startzeit (konfigurierbare Toleranz) und Sporttyp
+- `--dry-run`-Modus zur Vorschau von Änderungen vor dem Aktualisieren von Garmin
+- Schutz vorhandener Garmin-Texte mit `overwrite = false` Option
+- Automatisches Retry bei temporären HTTP-504-Fehlern mit Garmin's angeforderten Verzögerungen
+- Klare Fehlermeldungen für fehlende Einrichtung, abgelaufene Anmeldedaten und Rate Limits
+- Garmin-Beschreibung wird auf 2.000 UTF-16-Zeichen begrenzt
+- Windows-Batch-Dateien für einfache Ausführung
+- Optionale Windows-Task-Scheduler-Automation
+
+**Einrichtung:**
+- Automatische Einrichtung über `setup.bat` (empfohlen) oder manuelle Python-Skripte
+- Strava-API-Anwendungsregistrierung mit OAuth-Callback
+- Garmin Connect-Authentifizierung mit MFA-Unterstützung
+- Lokale Speicherung von Anmeldedaten außerhalb des Projektverzeichnisses
+
+**Verwendung:**
+- `py sync.py` — Synchronisiere letzte n Aktivitäten (konfigurierbares Limit)
+- `py sync.py --dry-run` — Vorschau von Änderungen ohne Garmin zu ändern
+- `py sync.py --start-date 2026-08-01 --end-date 2026-08-28` — Synchronisiere einen Datumsbereich
+- `py sync.py --no-overwrite` — Fülle nur leere Felder aus
+- `py sync.py --log-level DEBUG` — Aktiviere detailliertes Logging
+- Doppelklick auf `Strava2Garmin.bat` für interaktives CLI Tool
+
+
+**Datensicherheit:** Anmeldedaten sicher gespeichert in `%APPDATA%\Strava2Garmin\`; keine Aktivitäten werden erstellt, hochgeladen oder gelöscht — nur Metadaten-Updates.
+
+---
+
 ### [RuterfahrenIn_BatchDateien](https://github.com/therealkarle/RuterfahrenIn_BatchDateien)
 
 Windows-Batch-Skripte für geplanten PC-Herunterfahren oder Ruhezustand. Automatisiert die Energieverwaltung nach einer angegebenen Dauer.
