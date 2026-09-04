@@ -1,6 +1,5 @@
 # My Apps & Websites
 
-Welcome! This repository showcases my privacy-focused nutrition and performance analytics tools.
 
 ## Language
 
